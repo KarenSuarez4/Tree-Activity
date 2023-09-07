@@ -6,4 +6,4 @@
 <h2 align="center"> <em>Karen Juliana Peña Suarez - 202212066</em></h2>
 <h2 align="center"> <em>Camilo Andres Arias Tenjo - 202210549</em> </h2>
 <h2 align="center"> <em>Comentario importante</em> </h2>
-<p align="center"> En la rama principal esta el decimo punto</p>
+<p align="center"> En la rama principal esta el decimo punto, y en la rama "InsertAVL" esta el noveno punto</p>
